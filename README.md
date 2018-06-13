@@ -17,12 +17,12 @@ To run the app, run `node index.js` from within the chat app directory.
 
 # Ideas for Future Features / Socket.IO Recommendations
 
-"Broadcast a message to connected users when someone connects or disconnects
-Add support for nicknames
-Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.
-Add “{user} is typing” functionality
-Show who’s online
-Add private messaging"
+"Broadcast a message to connected users when someone connects or disconnects<br>
+Add support for nicknames<br>
+Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.<br>
+Add “{user} is typing” functionality<br>
+Show who’s online<br>
+Add private messaging"<br><br>
 
 <a href ="https://socket.io/get-started/chat/">Chat App - Socket.IO Docs</a>
 
